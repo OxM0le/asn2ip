@@ -3,14 +3,14 @@
 asn2ip is a small tool which search asn ip addresses based on search term e.g. company
 
 ## Usage
-
+```
 Usage: asn2ip.py [options]
 
 Options:
   -h, --help  show this help message and exit
   -u          create or update IPASN Data file
   -s ORG      search asn ip addresses based on search term
-
+```
 
 ## Setup
 

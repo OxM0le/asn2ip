@@ -1,6 +1,6 @@
 # asn2ip
 
-asn2ip is a small tool which search asn ip addresses based on search term e.g. company
+asn2ip is a small tool which search asn ip addresses based on search terms e.g. company
 
 ## Usage
 ```
